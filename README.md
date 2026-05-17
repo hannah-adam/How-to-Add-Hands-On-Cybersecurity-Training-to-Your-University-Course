@@ -1,4 +1,4 @@
-# How-to-Add-Hands-On-Cybersecurity-Training-to-Your-University-Course
+# How to Add Hands-On Cybersecurity Training to Your University Course
 <img width="754" height="424" alt="image" src="https://github.com/user-attachments/assets/e0aa527c-2360-4780-bc7e-5e99e24c12c6" />
 
 # Introduction
